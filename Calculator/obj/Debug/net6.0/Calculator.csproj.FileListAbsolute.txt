@@ -1,0 +1,12 @@
+P:\Rider Projects\IntegerCalculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+P:\Rider Projects\IntegerCalculator\Calculator\bin\Debug\net6.0\Calculator.dll
+P:\Rider Projects\IntegerCalculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.dll
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+P:\Rider Projects\IntegerCalculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
